@@ -1,0 +1,47 @@
+h1 {
+  color:red;
+  font-size:30px;
+}
+h2 {
+  color:purple;
+  font-size: 50px;
+text-decoration: underline overline wavy blue;
+}
+#scratch {
+  color: orange;
+}
+.page-sections {
+  font-size: 30px;
+  color: red;
+  background-color:navy;
+}
+.pp {
+  height: 200px;
+  width: 20%;
+  backround-color: powderblue;
+}
+h3{
+  color: green;
+  font-size:20px;
+}
+.ANIMEW {
+  font-size: 30px;
+  color: red;
+  background-color:navy;
+}
+.ANIME {
+  height: 200px;
+  width: 20%;
+}
+.card-body{
+  text-align: center;
+}
+
+.card{
+  float: left;
+  padding: 5px;
+}
+.NOODLE{color: green;
+font-size:30px;
+
+}
